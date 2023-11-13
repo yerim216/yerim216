@@ -7,6 +7,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerim216&layout=compact)](https://github.com/yerim216)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerim&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=yerim216&show_icons=true">
+
+
 ### 👩🏻‍💻 I'm developing ... 
 | Name | Role | Date | Skiils | 
 |:----------:|:----------:|:----------:|:----------:|
