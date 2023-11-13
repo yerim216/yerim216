@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerim216&layout=compact)](https://github.com/yerim216)
 
-### I'm developing a ..
+### Projects
 | Name | Description | Date | Skiils | 
 |:----------:|:----------:|:----------:|:----------:|
 | VPSPACE | 개발개발 | 2023.03~ | Node.js|
