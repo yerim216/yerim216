@@ -8,9 +8,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerim216&layout=compact)](https://github.com/yerim216)
 
 ### Projects
-| Name | Description | Date | Skiils | 
+| Name | Role | Date | Skiils | 
 |:----------:|:----------:|:----------:|:----------:|
-| VPSPACE | 개발개발 | 2023.03~ | Node.js|
+| VPSPACE | back-end | 2023.03~ | <img src="https://img.shields.io/badge/nodedotjs-#339933?style=flat&logo=Node.js&logoColor=white"/> |
+| TRIPY(트리피) | project manage & back-end | 2023.07~ | |
+| Flory(플로리) | 
+| 토론티어 | 
+| Devin | 
 
 
 
