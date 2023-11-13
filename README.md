@@ -10,9 +10,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yerim216&show_icons=true">
 
 
-<div align=center>
 ### 👩🏻‍💻 I'm developing ... 
-</div>
+
 <center>
 
 |    Name    |         Role          |    Date    |         Skills         |
