@@ -10,13 +10,19 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yerim216&show_icons=true">
 
 
+<div align=center>
 ### 👩🏻‍💻 I'm developing ... 
-| Name | Role | Date | Skiils | 
-|:----------:|:----------:|:----------:|:----------:|
-| VPSPACE | back-end | 2023.03~ | Node.js|
-| TRIPY(트리피) | project manage & back-end | 2023.07~ | Node.js |
-| Flory(플로리) | NFT develop | 2023.11 | Solidity & JAVA |
-| 토론티어 | back-end | 2023.10~ | Node.js|
+</div>
+<center>
+
+|    Name    |         Role          |    Date    |         Skills         |
+|:----------:|:---------------------:|:----------:|:----------------------:|
+|  VPSPACE   |       back-end        |  2023.03~  |        Node.js         |
+|TRIPY(트리피)| project manage & back-end|  2023.07~  |        Node.js         |
+|Flory(플로리) |      NFT develop      |   2023.11  |    Solidity & JAVA     |
+| 토론티어    |       back-end        |  2023.10~  |        Node.js         |
+
+</center>
 
 
 <div align=center>
