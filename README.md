@@ -10,10 +10,10 @@
 ### Projects
 | Name | Role | Date | Skiils | 
 |:----------:|:----------:|:----------:|:----------:|
-| VPSPACE | back-end | 2023.03~ |<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>|
-| TRIPY(트리피) | project manage & back-end | 2023.07~ | |
-| Flory(플로리) | 
-| 토론티어 | 
+| VPSPACE | back-end | 2023.03~ | Node.js|
+| TRIPY(트리피) | project manage & back-end | 2023.07~ |Node.js |
+| Flory(플로리) | NFT develop | 2023.11 | Solidity|
+| 토론티어 | back-end | 2023.10~ | Node.js|
 
 
 
