@@ -7,6 +7,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerim216&layout=compact)](https://github.com/yerim216)
 
+## I'm developing a ..
+
+
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
