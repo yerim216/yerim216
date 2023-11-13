@@ -1,4 +1,6 @@
 ### 안녕하세요 성장하는 개발자 박예림입니다.👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yerim's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerim216)](https://hits.seeyoufarm.com)
 
 
