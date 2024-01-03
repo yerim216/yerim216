@@ -2,8 +2,6 @@
 
 ### 👋 안녕하세요 경험의 힘을 믿는 박예림입니다. 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerim216&count_bg=%23BC7CF8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
-
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
