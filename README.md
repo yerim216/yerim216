@@ -2,25 +2,7 @@
 
 ### 👋 안녕하세요 경험의 힘을 믿는 박예림입니다. 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerim216&count_bg=%23BC7CF8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
-
-
-### 👩🏻‍💻 I'm developing ... 
-
-<center>
-
-|    Name    |         Role          |    Date    |         Skills         |
-|:----------:|:---------------------:|:----------:|:----------------------:|
-|  VPSPACE   |       back-end        |  2023.03~  |        Node.js         |
-|TRIPY(트리피)| project manage & back-end|  2023.07~  |  Spring boot JPA   | 
-|Flory(플로리) |      NFT develop      |   2023.11  |    Solidity & JAVA     |
-| 토론티어    |       back-end        |  2023.10~  |        Node.js         |
-| Devin | back-end | 2022.07~08  | Spring boot JPA |
-
-</center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerim216&count_bg=%23BC7CF8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com
 
 
 <div align=center>
