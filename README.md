@@ -8,10 +8,10 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-  	<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white">
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+  	<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white">
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
