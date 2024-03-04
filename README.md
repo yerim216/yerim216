@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yerim's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-
 ### 👋 안녕하세요 경험의 힘을 믿는 박예림입니다. 👋
 
 ![Yerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerim216&show_icons=true&theme=dark)
